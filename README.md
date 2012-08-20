@@ -7,7 +7,8 @@ the application builder for [Apache CouchDB](http://couchdb.apache.org/).
 
 ##Live Demo
 
-[Check out the live demo](http://pegli.iriscouch.com/contacts/_design/contacts/_rewrite/).
+Check out the [live demo](http://pegli.iriscouch.com/contacts/_design/contacts/_rewrite/)
+on Iris Couch ([http://iriscouch.com/](http://iriscouch.com)).
 
 ##Usage
 
